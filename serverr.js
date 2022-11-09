@@ -1,5 +1,5 @@
 var http = require('http');
-//THIS IS CODE OF NODE JS//
+//THIS IS CODE OF NODE JS OF SAURAB AND SANJEEV//
 var onReceive =  function(req,res)
 {
     res.write("<h1> online shopping web site</h1>");
